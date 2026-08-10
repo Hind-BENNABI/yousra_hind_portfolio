@@ -202,7 +202,7 @@ export const projects: Project[] = [
     description:
       " A modern personal portfolio website showcasing my projects, skills, and experience.",
     longDescription:
-      "An AI-A fully designed and developed personal portfolio that showcases not only my technical projects but also the creative side of who I am. Rather than following the traditional developer portfolio style, I wanted to create an experience that feels personal, tells my story, and highlights the passions that shape me beyond software engineering. The portfolio combines AI, software engineering, UI/UX design, and my creative hobbies into a cohesive digital identity, allowing visitors to explore both my professional work and the person behind it.",
+      "A fully designed and developed personal portfolio that showcases not only my technical projects but also the creative side of who I am. Rather than following the traditional developer portfolio style, I wanted to create an experience that feels personal, tells my story, and highlights the passions that shape me beyond software engineering. The portfolio combines AI, software engineering, UI/UX design, and my creative hobbies into a cohesive digital identity, allowing visitors to explore both my professional work and the person behind it.",
 features: [
   "Custom-designed portfolio with a unique visual identity.",
   "Responsive design .",
