@@ -173,10 +173,7 @@ export const creativeCategories: CreativeCategory[] = [
         src: "/images/projects/creative/lifestyle/project_science.jpg",
         alt: "dessert",
       },
-            {
-        src: "/images/projects/creative/lifestyle/truffes.jpg",
-        alt: "dessert",
-      },
+
     ],
   },
 
