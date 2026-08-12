@@ -190,32 +190,14 @@ export const creativeCategories: CreativeCategory[] = [
     bg: "yellow",
 
     images: [
- 
-            {
-        src: "/images/projects/creative/certificates/1as.jpg",
-        alt: "Certificate",
-      },      {
-        src: "/images/projects/creative/certificates/1m.jpg",
-        alt: "Certificate",
-      },      {
-        src: "/images/projects/creative/certificates/1m4.jpg",
-        alt: "Certificate",
-      },      {
-        src: "/images/projects/creative/certificates/2am.jpg",
-        alt: "Certificate",
-      },      {
-        src: "/images/projects/creative/certificates/2m4.jpg",
-        alt: "Certificate",
-      },      {
-        src: "/images/projects/creative/certificates/3am.jpg",
-        alt: "Certificate",
-      },      {
-        src: "/images/projects/creative/certificates/3m4.jpg",
-        alt: "Certificate",
-      },      {
+      {
         src: "/images/projects/creative/certificates/bac_wilaya.jpg",
         alt: "Certificate",
-      },      {
+      },     
+       {
+        src: "/images/projects/creative/certificates/bac.jpg",
+        alt: "Certificate",
+      }, {
         src: "/images/projects/creative/certificates/competition_lycee.jpg",
         alt: "Certificate",
       },      {
@@ -225,7 +207,10 @@ export const creativeCategories: CreativeCategory[] = [
         src: "/images/projects/creative/certificates/islamic.jpg",
         alt: "Certificate",
         
-      }, {
+      }, 
+  {
+        src: "/images/projects/creative/certificates/1as.jpg",
+        alt: "Certificate", }, {
        src: "/images/projects/creative/certificates/writer.jpg",
         alt: "writer certificate",
       },  {
@@ -234,9 +219,18 @@ export const creativeCategories: CreativeCategory[] = [
       },      {
        src: "/images/projects/creative/certificates/soroban_participation.jpg",
         alt: "soroban certificate",
-      },       {
+      },       
+      {
+        src: "/images/projects/creative/certificates/huawei.jpg",
+        alt: "Certificate",
+      },      
+      {
         src: "/images/projects/creative/certificates/soroban2.jpg",
         alt: "soroban certificate",
+      },
+       {
+        src: "/images/projects/creative/certificates/hadj.jpg",
+        alt: "Certificate",
       },
            {
         src: "/images/projects/creative/certificates/fikh.jpg",
