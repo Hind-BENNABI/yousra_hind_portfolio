@@ -74,18 +74,18 @@ export const creativeCategories: CreativeCategory[] = [
         src: "/images/projects/creative/fiber/barbie_tricot.jpg",
         alt: "Barbie doll",
       },
-      {
-        src: "/images/projects/creative/fiber/barbie_tshirt.jpg",
-        alt: "Barbie doll",
-      },      
+      // {
+      //   src: "/images/projects/creative/fiber/barbie_tshirt.jpg",
+      //   alt: "Barbie doll",
+      // },      
       {
         src: "/images/projects/creative/fiber/bluenwhite_sac.jpg",
         alt: "macramé bag" 
       },
-            {
-        src: "/images/projects/creative/fiber/beige_bag.jpg",
-        alt: "macramé bag",
-      },
+      //       {
+      //   src: "/images/projects/creative/fiber/beige_bag.jpg",
+      //   alt: "macramé bag",
+      // },
       {
         src: "/images/projects/creative/fiber/bracelets_bresiliens.jpg",
         alt: "Bracelet Bresilien",
