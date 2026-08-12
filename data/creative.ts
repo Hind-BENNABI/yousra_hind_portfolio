@@ -221,7 +221,7 @@ export const creativeCategories: CreativeCategory[] = [
         alt: "soroban certificate",
       },       
       {
-        src: "/images/projects/creative/certificates/huawei.jpg",
+        src: "/images/projects/creative/certificates/huawei.png",
         alt: "Certificate",
       },      
       {
@@ -229,7 +229,7 @@ export const creativeCategories: CreativeCategory[] = [
         alt: "soroban certificate",
       },
        {
-        src: "/images/projects/creative/certificates/hadj.jpg",
+        src: "/images/projects/creative/certificates/hajj.png",
         alt: "Certificate",
       },
            {
