@@ -66,9 +66,34 @@ export const creativeCategories: CreativeCategory[] = [
       {
         src: "/images/projects/creative/fiber/bookmarks_crochet.jpg",
         alt: "Crochet bookmark",
-      },      {
-        src: "/images/projects/creative/fiber/cerises.jpg",
-        alt: "crochet cherries",
+      }, 
+        {
+        src: "/images/projects/creative/fiber/pendant_broderie.jpg",
+        alt: "crochet ",
+      },
+         {
+        src: "/images/projects/creative/fiber/octopus.jpg",
+        alt: "crochet octopus",
+      },
+       {
+        src: "/images/projects/creative/fiber/tricot_bonnet.jpg",
+        alt: "knitting",
+      },
+       {
+        src: "/images/projects/creative/fiber/tricot_mitaines.jpg",
+        alt: "crochet",
+      },
+       {
+        src: "/images/projects/creative/fiber/broderie_seau.jpg",
+        alt: "embroidery",
+      },
+       {
+        src: "/images/projects/creative/fiber/broderie_licorne.jpg",
+        alt: "broderie",
+      },
+       {
+        src: "/images/projects/creative/fiber/bag_beige_macrame.jpg",
+        alt: "macrame",
       },
       {
         src: "/images/projects/creative/fiber/barbie_tricot.jpg",
