@@ -22,10 +22,10 @@ export const creativeCategories: CreativeCategory[] = [
         src: "/images/projects/creative/canvas/mos.jpg",
         alt: "Mosaic artwork",
       },
-      {
-        src: "/images/projects/creative/canvas/rassm.jpg",
-        alt: "Watercolor illustration",
-      },
+      // {
+      //   src: "/images/projects/creative/canvas/rassm.jpg",
+      //   alt: "Watercolor illustration",
+      // },
             {
         src: "/images/projects/creative/canvas/ceramic.jpg",
         alt: "Ceramic artwork",
