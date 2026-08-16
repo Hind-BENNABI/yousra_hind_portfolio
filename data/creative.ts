@@ -162,10 +162,7 @@ export const creativeCategories: CreativeCategory[] = [
     bg: "green",
 
     images: [
-      {
-        src: "/images/projects/creative/lifestyle/islamic_project.jpg",
-        alt: "Lifestyle",
-      },
+     
       {
         src: "/images/projects/creative/lifestyle/collier_beads.jpg",
         alt: "beads necklace",
@@ -191,6 +188,10 @@ export const creativeCategories: CreativeCategory[] = [
         alt: "necklace",
       },
        {
+        src: "/images/projects/creative/lifestyle/islamic_project.jpg",
+        alt: "Lifestyle",
+      },
+       {
         src: "/images/projects/creative/lifestyle/musey.jpg",
         alt: "lifestyle",
       },
@@ -201,6 +202,18 @@ export const creativeCategories: CreativeCategory[] = [
             {
         src: "/images/projects/creative/lifestyle/gauffres.jpg",
         alt: "waffles",
+      },
+          {
+        src: "/images/projects/creative/lifestyle/souyouf.jpg",
+        alt: "lifestyle",
+      },
+       {
+        src: "/images/projects/creative/lifestyle/physics.jpg",
+        alt: "lifestyle",
+      },
+       {
+        src: "/images/projects/creative/lifestyle/ba9radj.jpg",
+        alt: "lifestyle",
       },
        {
         src: "/images/projects/creative/lifestyle/patisserie_heart.jpg",
@@ -214,18 +227,7 @@ export const creativeCategories: CreativeCategory[] = [
         src: "/images/projects/creative/lifestyle/coco.jpg",
         alt: "lifestyle",
       },
-       {
-        src: "/images/projects/creative/lifestyle/souyouf.jpg",
-        alt: "lifestyle",
-      },
-       {
-        src: "/images/projects/creative/lifestyle/physics.jpg",
-        alt: "lifestyle",
-      },
-       {
-        src: "/images/projects/creative/lifestyle/ba9radj.jpg",
-        alt: "lifestyle",
-      },
+   
 
     ],
   },
