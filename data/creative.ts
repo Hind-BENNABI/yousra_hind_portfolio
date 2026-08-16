@@ -71,6 +71,10 @@ export const creativeCategories: CreativeCategory[] = [
         src: "/images/projects/creative/fiber/pendant_broderie.jpg",
         alt: "crochet ",
       },
+      {
+        src: "/images/projects/creative/fiber/pillow_granny.png",
+        alt: "granny squares",
+      },
          {
         src: "/images/projects/creative/fiber/octopus.jpg",
         alt: "crochet octopus",
