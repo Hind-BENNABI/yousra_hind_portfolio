@@ -83,10 +83,10 @@ export const creativeCategories: CreativeCategory[] = [
         src: "/images/projects/creative/fiber/tricot_mitaines.jpg",
         alt: "crochet",
       },
-       {
-        src: "/images/projects/creative/fiber/broderie_seau.jpg",
-        alt: "embroidery",
-      },
+      //  {
+      //   src: "/images/projects/creative/fiber/broderie_seau.jpg",
+      //   alt: "embroidery",
+      // },
        {
         src: "/images/projects/creative/fiber/broderie_licorne.jpg",
         alt: "broderie",
@@ -111,10 +111,10 @@ export const creativeCategories: CreativeCategory[] = [
       //   src: "/images/projects/creative/fiber/beige_bag.jpg",
       //   alt: "macramé bag",
       // },
-      {
-        src: "/images/projects/creative/fiber/bracelets_bresiliens.jpg",
-        alt: "Bracelet Bresilien",
-      },
+      // {
+      //   src: "/images/projects/creative/fiber/bracelets_bresiliens.jpg",
+      //   alt: "Bracelet Bresilien",
+      // },
       {
         src: "/images/projects/creative/fiber/bresilien.jpg",
         alt: "Bracelet Bresilien",
@@ -146,7 +146,7 @@ export const creativeCategories: CreativeCategory[] = [
         alt: "macramé suspension", 
       },
        {
-        src: "/images/projects/creative/fiber/suspension_mirror.png",
+        src: "/images/projects/creative/fiber/mirror.jpg,
         alt: "macramé suspension", 
       },
     ],
